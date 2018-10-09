@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "brandName": "b1",
+            "productName": "p1",
+            "detail": "d1",
+            "price": 100
+        },
+        {
+            "id": 2,
+            "brandName": "b2",
+            "productName": "p2",
+            "detail": "d2",
+            "price": 200
+        },
+        {
+            "id": 3,
+            "brandName": "b3",
+            "productName": "p3",
+            "detail": "d3",
+            "price": 300
+        },
+        {
+            "id": 4,
+            "brandName": "b4",
+            "productName": "p4",
+            "detail": "d4",
+            "price": 400
+        },
+        {
+            "id": 5,
+            "brandName": "b5",
+            "productName": "p5",
+            "detail": "d5",
+            "price": 500
+        }
+    ]
+}
